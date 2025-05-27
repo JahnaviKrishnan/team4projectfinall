@@ -1,0 +1,5 @@
+INSTRUCTIONS :
+1. Serializers has all the apis that work under DJANGO REST FRAMEWORK 
+2.Viewes and models have the db loads of sqlite that is properly structure 
+3. frontend team please use templates file under Coffee to add ur front end here 
+4.Backend pls let me know if u can properly access dbsqlite3 file it is very very important 
